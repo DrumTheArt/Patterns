@@ -7,6 +7,7 @@ public abstract class Beilage implements Gericht{
     public Beilage(Gericht gericht){
 
         this.gericht = gericht;
+
     }
 
 
