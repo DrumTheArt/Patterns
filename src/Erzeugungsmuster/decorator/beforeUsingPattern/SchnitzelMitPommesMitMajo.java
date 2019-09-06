@@ -1,4 +1,4 @@
-package Erzeugungsmuster.Decorator.beforeUsingPattern;
+package Erzeugungsmuster.decorator.beforeUsingPattern;
 
 public class SchnitzelMitPommesMitMajo implements Gericht{
 

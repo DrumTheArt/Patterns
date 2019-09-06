@@ -1,4 +1,4 @@
-package Erzeugungsmuster.Decorator.withPatternUsing;
+package Erzeugungsmuster.decorator.withPatternUsing;
 
 public class Salat extends Beilage {
 

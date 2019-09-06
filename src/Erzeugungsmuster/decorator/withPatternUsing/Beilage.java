@@ -1,4 +1,4 @@
-package Erzeugungsmuster.Decorator.withPatternUsing;
+package Erzeugungsmuster.decorator.withPatternUsing;
 
 public abstract class Beilage implements Gericht{
 

@@ -1,4 +1,4 @@
-package Erzeugungsmuster.Decorator.withPatternUsing;
+package Erzeugungsmuster.decorator.withPatternUsing;
 
 class Hueftsteak implements Gericht {
 
