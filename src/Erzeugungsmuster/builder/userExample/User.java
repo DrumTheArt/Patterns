@@ -1,4 +1,4 @@
-package Erzeugungsmuster.builder;
+package Erzeugungsmuster.builder.userExample;
 
 import java.util.Date;
 
